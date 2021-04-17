@@ -1,3 +1,3 @@
 # Test
 Just a test document<br/>
-[Index](https://kira-pgr.github.io/Test/test.html "悬停显示")  
+[Index](https://kira-pgr.github.io/Test/test.html "Test")  
