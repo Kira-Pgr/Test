@@ -1,3 +1,4 @@
-----KiraPGR----\
+Test
+{:}
 Note.
 {:.note}
